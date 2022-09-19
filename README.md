@@ -1,4 +1,4 @@
-# Food Recommendor System
+# Food Recommendor System : Analysis performed on AWS Instance
 Objective of the project : 
 1. Exploratory Data Analysis (EDA) and feature extraction from raw data 
 2. Building the recommender system
