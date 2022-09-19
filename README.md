@@ -1,4 +1,4 @@
-# food_recommendor_system
+# Food Recommendor System
 Objective of the project : 
 1. Exploratory Data Analysis (EDA) and feature extraction from raw data 
 2. Building the recommender system
