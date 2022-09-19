@@ -1,7 +1,9 @@
 # food_recommendor_system
-objective of the project : 1. Exploratory Data Analysis (EDA) and feature extraction from raw data ; 2. Building the recommender system
+Objective of the project : 
+1. Exploratory Data Analysis (EDA) and feature extraction from raw data 
+2. Building the recommender system
 
-Task List
+Task List : EDA
 Task 1: Read the data
 Task 2: Extract individual features from the nutrition column.
 Task 3: Standardize the nutrition values.
