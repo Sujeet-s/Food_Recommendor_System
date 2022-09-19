@@ -7,7 +7,7 @@ Objective of the project :
 
 Task List : EDA
 
-Task 1: Read the data
+Task 1: Read the data.
 
 Task 2: Extract individual features from the nutrition column.
 
