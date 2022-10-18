@@ -24,3 +24,6 @@ Task 7: Processing Numerical Columns.
 Task 8: Create user-level features.
 
 Task 9: Create tag-level features.
+
+
+Post EDA processes - The data is split into Train and Test set and Matrix Factorization method is used to find out top 10 recommendations for each picture.
